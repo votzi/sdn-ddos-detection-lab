@@ -7,7 +7,10 @@ YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 CYAN='\033[0;36m'
 NC='\033[0m'
+ 
 
+
+ 
 # Arrays para almacenar valores previos
 declare -A prev_rx
 declare -A prev_tx
