@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+scripts/FlowStatsfile.csv
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Generated training data
+scripts/FlowStatsfile.csv
+
+# Logs
+*.log
+
+# Virtual env
+venv/
+.env
