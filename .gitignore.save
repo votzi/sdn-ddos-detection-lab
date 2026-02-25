@@ -8,11 +8,11 @@ __pycache__/
 # Generated training data
 scripts/FlowStatsfile.csv
 
+.bash_history
+
 # Logs
 *.log
 
 # Virtual env
 venv/
 .env
-
-.bash_history
